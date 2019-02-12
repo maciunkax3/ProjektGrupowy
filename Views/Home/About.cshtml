@@ -1,0 +1,16 @@
+﻿@model List<projektGrupowy.Models.MusicFile>
+<h2>@ViewData["Title"]</h2>
+<h3>@ViewData["Message"]</h3>
+
+<p>Zapraszamy do wspaniałej przygody</p>
+
+@if(Model != null) {
+    @foreach (var item in Model) {
+        <li>
+        <audio controls>
+        <source src="~/Music/@item.fileName" alt="ASP.NET" type="audio/mpeg">
+        </audio>
+        @item.fileName
+        </li>
+    }
+}

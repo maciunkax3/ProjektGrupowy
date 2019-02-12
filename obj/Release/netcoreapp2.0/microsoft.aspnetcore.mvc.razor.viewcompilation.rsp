@@ -1,0 +1,12 @@
+/home/maciej/projektGrupowy
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=projektGrupowy
+--content-root=/home/maciej/projektGrupowy
+--file=/home/maciej/projektGrupowy/Views/Home/About.cshtml
+--file=/home/maciej/projektGrupowy/Views/Home/Contact.cshtml
+--file=/home/maciej/projektGrupowy/Views/Home/Index.cshtml
+--file=/home/maciej/projektGrupowy/Views/Shared/Error.cshtml
+--file=/home/maciej/projektGrupowy/Views/Shared/_Layout.cshtml
+--file=/home/maciej/projektGrupowy/Views/Shared/_ValidationScriptsPartial.cshtml
+--file=/home/maciej/projektGrupowy/Views/_ViewImports.cshtml
+--file=/home/maciej/projektGrupowy/Views/_ViewStart.cshtml

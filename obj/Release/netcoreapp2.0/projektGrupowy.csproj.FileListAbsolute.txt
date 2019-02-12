@@ -1,0 +1,10 @@
+/home/maciej/projektGrupowy/bin/Release/netcoreapp2.0/projektGrupowy.deps.json
+/home/maciej/projektGrupowy/bin/Release/netcoreapp2.0/projektGrupowy.runtimeconfig.json
+/home/maciej/projektGrupowy/bin/Release/netcoreapp2.0/projektGrupowy.runtimeconfig.dev.json
+/home/maciej/projektGrupowy/bin/Release/netcoreapp2.0/projektGrupowy.dll
+/home/maciej/projektGrupowy/bin/Release/netcoreapp2.0/projektGrupowy.pdb
+/home/maciej/projektGrupowy/obj/Release/netcoreapp2.0/projektGrupowy.csproj.CoreCompileInputs.cache
+/home/maciej/projektGrupowy/obj/Release/netcoreapp2.0/projektGrupowy.AssemblyInfoInputs.cache
+/home/maciej/projektGrupowy/obj/Release/netcoreapp2.0/projektGrupowy.AssemblyInfo.cs
+/home/maciej/projektGrupowy/obj/Release/netcoreapp2.0/projektGrupowy.dll
+/home/maciej/projektGrupowy/obj/Release/netcoreapp2.0/projektGrupowy.pdb
